@@ -3,7 +3,7 @@
 - 🔎 About me:
 
   Olá, me chamo Rodrigo, tenho 31 anos e sou um estudante de Análise e Desenvolvimento de Sistemas. Mas como eu vim parar aqui?
-  Atualmente estou concluindo uma graduação em Engenharia de Energia na Universidade Estadual do RIogrande do Sul (UERGS) e possuo formação técnica em Eletrotécnica. Durante a graduação tive meu primeiro contato com programação na disciplina "Introdução a Programação", onde aprendemos o básico de lógica de programação e algoritmos, utilizando inicialmente o portugol e posteriormente a linguagem C. Essa disciplina foi uma das que eu mais gostei durante a graduação, mas na época não imaginei que pudesse seguir carreira com isso. Agora eu estou aqui, buscando iniciar uma carreira na área da tecnologia e aproveitar os insights que a minha experiência na Engenharia de Energia possa me proporcionar.
+  Atualmente estou concluindo uma graduação em Engenharia de Energia na Universidade Estadual do Rio Grande do Sul (UERGS) e possuo formação técnica em Eletrotécnica. Durante a graduação tive meu primeiro contato com programação na disciplina "Introdução a Programação", onde aprendemos o básico de lógica de programação e algoritmos, utilizando inicialmente o portugol e posteriormente a linguagem C. Essa disciplina foi uma das que eu mais gostei durante a graduação, mas na época não imaginei que pudesse seguir carreira com isso. Agora eu estou aqui, buscando iniciar uma carreira na área da tecnologia e aproveitar os insights que a minha experiência na Engenharia de Energia possa me proporcionar.
   
 - 🖥️ I’m currently learning:
 
