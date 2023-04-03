@@ -9,8 +9,9 @@
 
   - Cursando Engenharia de Software
   - HTML / CSS / JAVASCRIPT
-  - Algoritmos e Estruturas de Dados em Javscript (FreecodeCamp)
+  - Algoritmos e Estruturas de Dados em Javascript (FreecodeCamp)
   - Banco de Dados - SQL
+  - Node.Js
   
 - 🚀 Objetivos atuais:
 
