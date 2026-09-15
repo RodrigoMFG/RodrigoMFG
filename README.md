@@ -2,7 +2,7 @@
 
 # Rodrigo Marques
 
-### Energy Engineer · Engineering Automation · Software Development
+### Energy Engineer · Software Development · Personal Projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-RodrigoMFG-181717?style=for-the-badge&logo=github)](https://github.com/RodrigoMFG)
 
@@ -12,29 +12,28 @@
 
 ## About me
 
-I am an **Energy Engineer** with a technical background in electrical engineering, working at the intersection of **engineering, automation and software development**.
+I am an **Energy Engineer** with a technical background in electrical engineering and an increasing focus on **software development, data processing and automation**.
 
-My current development work is focused on solving real engineering problems with software: automating repetitive design activities, processing technical files, connecting engineering data and building tools that improve engineering workflows.
+My current projects are driven by personal interests and practical problems, especially applications that combine programming with **finance, engineering, CAD and technical data**.
 
-> **Engineering knowledge + software + automation**
+> **Domain knowledge + software + automation**
 
 ---
 
 ## Current focus
 
-My current projects are primarily **private engineering automation projects**, rather than general-purpose web development.
+My recent development work has moved away from general-purpose web development and toward applications with a specific practical purpose.
 
-Areas I am actively exploring:
+Areas I am currently exploring:
 
-- Automation of engineering design workflows
+- Engineering software and automation
+- Financial data and personal portfolio analysis
 - CAD/DXF processing
 - Computational geometry
-- Engineering file conversion and generation
-- Excel-based engineering automation
-- Integration between engineering data and CAD systems
-- PowerShell automation for desktop engineering environments
-- Python for engineering tools and technical processing
-- Software architecture for engineering applications
+- Technical file conversion and generation
+- Data processing and visualization
+- API integration
+- Full-stack applications for personal tools
 
 ---
 
@@ -42,39 +41,51 @@ Areas I am actively exploring:
 
 ### `helper-Acoes-opcoes`
 
-A practical **PowerShell automation tool** developed for engineering workflows, focused on reducing repetitive desktop activities and standardizing common actions used during project execution.
+A **personal investment portfolio management and options analysis application**.
 
-The project reflects my current approach to software: build small, practical tools around problems that actually occur in engineering work.
+The application was developed for my own use to organize stock transactions, monitor my portfolio and analyze listed options using market data and quantitative calculations.
+
+Main features include:
+
+- Stock portfolio and transaction management
+- Portfolio performance metrics and charts
+- Transaction history with CSV import/export
+- Market price updates
+- B3 options scanning
+- PUT and CALL strategy analysis
+- Filters based on expiration, yield, margin and Delta
+- Black-Scholes calculations and option Greeks
+- CDI used as the risk-free rate reference
+- Option simulation tools
+- Authentication and cloud persistence with Firebase
+
+The project is built with **React, Vite, JavaScript, Tailwind CSS, Recharts and Firebase**, with integrations for market and economic data.
 
 ### `SPPE`
 
-Private engineering software project focused on **process automation and productivity** within an engineering environment.
-
-The project is part of my broader effort to transform recurring engineering procedures into structured digital workflows.
+Private project developed for **personal exploration and automation**, combining software development with practical problem-solving.
 
 ### `dxf-to-femm`
 
-Private project exploring the processing of **DXF geometry for engineering analysis**, with the goal of bridging CAD geometry and computational/electromagnetic simulation workflows involving FEMM.
+Private project exploring the processing of **DXF geometry for engineering analysis**, bridging CAD geometry with computational and electromagnetic simulation workflows involving FEMM.
 
-Key concepts involved:
+Key concepts include:
 
-- DXF geometry
-- CAD data processing
-- Geometric entities
+- DXF geometry processing
+- CAD entities
+- Geometric data transformation
 - Engineering simulation workflows
 - Automation of geometry preparation
 
 ### `dxf-to-pdf`
 
-Private utility focused on **DXF processing and PDF generation/conversion**, exploring automated handling of engineering drawings and technical documentation.
-
-The project represents another part of my current interest: reducing manual operations between engineering design files and deliverables.
+Private utility focused on **processing DXF files and generating PDF-based technical documentation**, exploring the automation of repetitive operations involving engineering drawings.
 
 ---
 
 ## Engineering background
 
-My software projects are directly influenced by my professional experience in electrical and energy engineering, including:
+My software development is strongly influenced by my professional experience in electrical and energy engineering, including:
 
 - Power transformer design and manufacturing
 - Coils and windings for transformers up to 145 kV class
@@ -88,13 +99,21 @@ My software projects are directly influenced by my professional experience in el
 - Engineering process improvement
 - Lean Manufacturing, Kaizen, 5S and PDCA
 
-This background shapes the type of software I want to develop: **engineering tools that understand the process they are automating**.
+This background influences the applications I build: **software developed around concrete problems and domain-specific requirements**.
 
 ---
 
 ## Technology stack
 
-### Automation & engineering
+### Current development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Engineering & automation
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -102,53 +121,44 @@ This background shapes the type of software I want to develop: **engineering too
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### Software development
+### Data & development tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Data & integration
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
 ## Direction
 
-I am moving toward **engineering software development**, combining domain knowledge with programming and automation.
+My goal is to combine **engineering knowledge with software development** to create useful technical applications and automation systems.
 
 ```text
-Electrical & Energy Engineering
-            ↓
-      Process knowledge
-            ↓
-        Automation
-            ↓
- Software & data processing
-            ↓
-   Engineering applications
+Engineering knowledge
+        ↓
+Problem identification
+        ↓
+Data & process modeling
+        ↓
+Software development
+        ↓
+Practical application
 ```
 
 Areas I want to deepen:
 
-- CAD automation
 - Engineering software
-- Computational geometry
-- Technical calculations
-- Data processing for engineering
+- CAD automation and computational geometry
+- Financial and quantitative applications
+- Data processing and visualization
 - APIs and system integration
-- Desktop automation
+- Automation
 - AI-assisted engineering workflows
 
 ---
 
 <div align="center">
 
-### Building software for engineering.
+### Building software around real problems.
 
 </div>
