@@ -63,7 +63,23 @@ The project is built with **React, Vite, JavaScript, Tailwind CSS, Recharts and 
 
 ### `SPPE`
 
-Private project developed for **personal exploration and automation**, combining software development with practical problem-solving.
+A **private engineering automation project for AutoCAD**, developed to automate and standardize workflows involved in the design and documentation of power-transformer components.
+
+The project is implemented primarily in **AutoLISP**, using AutoCAD/ActiveX integration, DCL interfaces and Excel data ingestion. Its architecture is organized into reusable infrastructure, engineering component modules and orchestration layers.
+
+The system includes tools for:
+
+- Project initialization through a guided workflow
+- Importing project data from Excel into AutoCAD
+- Persisting project data in the DWG as a **Single Source of Truth (SSOT)**
+- Parametric creation and manipulation of transformer components such as rings, cylinders, diaphragms, spacers, calendered filling, base components and windings
+- Automatic generation of sections, bills of materials and project notes
+- Attribute and custom-property management
+- Automatic layer and block handling
+- Toolbar generation and deployment of required assets
+- Reusable helper APIs for counters, layers, attributes, SSOT, Excel access and geometric data conversion
+
+The project also includes an ongoing architectural effort to centralize reusable infrastructure in `SPPE-HELPERS.LSP`, while keeping engineering rules and component-specific logic within their respective modules.
 
 ### `dxf-to-femm`
 
@@ -115,6 +131,7 @@ This background influences the applications I build: **software developed around
 
 ### Engineering & automation
 
+![AutoLISP](https://img.shields.io/badge/AutoLISP-AutoCAD-CAD?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-CAD?style=flat-square)
